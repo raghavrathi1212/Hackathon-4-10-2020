@@ -1,6 +1,8 @@
 # HacktheBuild
 Annual Hackathon organized by Coding Club of IIT Jammu 
 
+# AUTOMATED PRECISION AGRICULTURE THROUGH ML , DL AND IoT
+
 ## OBJECTIVE:
 Recently Farmer Suicides and Protests are all over the news. They have been comitting suicides under pressure because of debts and money pressure. The main reason behind these problems is that they are not getting proper crop yield, sometimes their whole crop is destroyed by pest diseases, and also because of using primitive techniques to irrigate the field which results in overusage of water. So as a result a lot of freshwater also gets wasted. This has been our major objective behind the project. We will be providing complete package to the farmers to increase their Crop Yield by at least 40% and to use almost 50 percent less water and aslo detect the diseases.
 
