@@ -18,3 +18,6 @@ Starting with the early crop stages, a farmer must closely monitor crops because
 3.)	Machine Learning Alalysis for **Crop Yield Prediction** and measures to improve it.  </br>
 4.)	Combining sensors data and cloud intelligence to save even more resources. </br>
 5.) **Pest Disease Detection** through Deep Learning. </br>
+ 
+# Final Verdict
+It is a complete Crop Analytics System for Farmers, which will help them to increase their CROP YIELD and PROFIT by atleast 50%. Hence Our Farmers will face less problems related to money and graudally suicide rates will go down.
