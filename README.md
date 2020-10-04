@@ -1,5 +1,5 @@
-# HacktheBuild
-Annual Hackathon organized by Coding Club of IIT Jammu 
+# HackathonPROJECT
+
 
 # AUTOMATED PRECISION AGRICULTURE THROUGH ML , DL AND IoT
 
